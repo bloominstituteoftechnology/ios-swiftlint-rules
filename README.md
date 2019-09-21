@@ -1,5 +1,4 @@
-# ios-swiftlint-rules
-SwiftLint rules for iOS apps
+# SwiftLint rules for iOS apps at Lambda School
 
 1. Add both of these files into your project (.swiftlint.yml is a hidden file)
 2. It may be easier to copy/paste into a file you create with Xcode (or your favorite editor)
